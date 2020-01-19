@@ -128,14 +128,14 @@ a:hover {
 .education {
   border-spacing: 5px 1rem;
   table-layout: auto;
-  width: 50%;
+  width: 80%;
   margin: 0 auto;
 }
 
 .work-experience {
   border-spacing: 5px 1rem;
   table-layout: auto;
-  width: 50%;
+  width: 80%;
   margin: 0 auto;
 }
 .work-skills {
