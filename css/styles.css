@@ -30,6 +30,10 @@ p {
   line-height: 2;
 }
 
+td {
+  text-align: center;
+  witdh:20%;
+
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
@@ -127,8 +131,8 @@ a:hover {
 
 .education {
   border-spacing: 5px 1rem;
-  table-layout: fixed;
-  width: 20%;
+  table-layout: auto;
+  width: 50%;
   margin: 0 auto;
 }
 
