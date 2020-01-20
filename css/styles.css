@@ -32,7 +32,8 @@ p {
 
 td {
   text-align: center;
-  witdh:20%;
+  witdh-left:20%;
+  witdh-right:20%;
 
 hr {
   border: dotted #EAF6F6 6px;
